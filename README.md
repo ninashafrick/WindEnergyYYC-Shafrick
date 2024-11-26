@@ -1,6 +1,7 @@
 # WindEnergyYYC-Shafrick
 This readme file was generated on [2024-11-25] by [NINA SHAFRICK]
 
+
 GENERAL INFORMATION
 
 Title of Project Package: GEOG587_-_Wind_Energy_VAWT_-_Shafrick
@@ -31,6 +32,7 @@ Geographic location of data collection: 51°02′51.94″ North, longitude 114°
 
 
 PROJECT PURPOSE
+
 Assessing Wind Power Density and Energy Use for Renewable Energy Development in Calgary: The Future of Renewable (Wind) Energy in Calgary.
 This project aims to identify key factors influencing renewable energy opportunities in Calgary's urban landscape to support the city's transition to net-zero carbon emissions by 2050.
 The focus is on assessing the potential of vertical-axis wind turbines (VAWTs) in urban areas, given their efficiency in low wind speeds and turbulent conditions.
@@ -40,7 +42,9 @@ The findings will help reduce reliance on natural gas, cut greenhouse gas emissi
 
 
 DATA SOURCES
+
 File List:
+
 1. Folder name: 3DBuildings__COC
    Dataset: 3D Buildings - Citywide
    Description: Basemap of Calgary buildings
@@ -151,15 +155,19 @@ People involved with sample collection, processing, analysis and/or submission:
 
 
 CREATIVE COMMONS LICENSE / ACKNOWLEDGEMENTS / REFERENCE SECTION
+
 Creative Commons License
+
 GEOG587_-_Wind_Energy_VAWT_-_Shafrick © 2024 by Nina Shafrick is licensed under CC BY 4.0 
 
 Acknowledgements
+
   Contains information licensed under the Open Government Licence – City of Calgary.
   Data obtained from the Global Wind Atlas version 3.3, a free, web-based application developed, owned and operated by the Technical University of Denmark (DTU). The Global Wind Atlas version 3.3 is released in partnership with the World Bank Group, utilizing data provided by Vortex, using funding provided by the Energy Sector Management Assistance Program (ESMAP). For additional information: https://globalwindatlas.info
   "Copyright and Open Licensing" by Spatial & Numeric Data Services, University of Calgary is licensed under CC BY 4.0
 
 Reference
+
   Energy Star. (2024). _The Difference Between Source and Site Energy._ ENERGY STAR. https://www.energystar.gov/buildings/benchmark/understand-metrics/source-site-difference#:~:text=Source%20Energy%20Accounts%20for%20Total%20Energy%20Use&text=Site%20energy%20may%20be%20delivered,oil%20used%20in%20onsite%20generation. 
   The City of Calgary. (2014). _Land Use Bylaw 1P2007._ https://www.calgary.ca/planning/land-use/online-land-use-bylaw.html?part=5&div=3&sec=360  
   Havre, J. (2022, October 12). _High Rise vs. Low Rise Condos: A Guide to Calgary Condo Styles._ Calgaryhomes.ca. https://calgaryhomes.ca/blog/high-rise-low-rise-condo-comparison.html#:~:text=To%20be%20considered%20a%20low,stories%20as%20a%20low%2Drise. 
